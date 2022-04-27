@@ -4,7 +4,7 @@ Curso de NextJS dictado por [@jonalvarezz](https://twitter.com/jonalvarezz) para
 
 ![Captura de avocados](.readme-static/captura-avocados.png)
 
-[Ver la app en producción](https://app-master-j33wphhjp-jairoduenas.vercel.app/)
+[Ver la app en producción](https://app-master-m1rjhpxjq-jairoduenas.vercel.app/)
 
 ### 🚀 Logros
 
