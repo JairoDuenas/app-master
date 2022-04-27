@@ -40,7 +40,7 @@ const Footer = () => (
             <p>
               <a href="https://platzi.com/">Platzi y su curso de Next.JS</a> de
               Platzi dictado por{' '}
-              <a href="https://twitter.com/jonalvarezz">@jonalvarezz</a>
+              <a href="https://twitter.com/jonalvarezz">@jonalvarezz</a> Proyecto desarrollado y elaborado por Jairo Dueñas
             </p>
             <List horizontal style={{ display: 'flex' }}>
               <List.Item
