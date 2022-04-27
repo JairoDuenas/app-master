@@ -2,7 +2,7 @@
 
 Curso de NextJS dictado por [@jonalvarezz](https://twitter.com/jonalvarezz) para [Platzi](https://platzi.com)
 
-![Captura de avocados](.readme-static/captura-avocados.png)
+![Captura de avocados](.readme-static/captura-avos.png)
 
 [Ver la app en producción](https://app-master-m1rjhpxjq-jairoduenas.vercel.app/)
 
