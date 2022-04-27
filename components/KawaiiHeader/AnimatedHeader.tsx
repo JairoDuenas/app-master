@@ -14,7 +14,7 @@ const AnimatedHeader = ({
   onComplete,
 }: AnimatedHeaderProps) => (
   <Header size="huge" as="h1" onClick={onClick}>
-    Paltas
+    Avos
     <Transition
       animation="jiggle"
       visible={visible}

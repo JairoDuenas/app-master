@@ -38,33 +38,22 @@ const Footer = () => (
           <Grid.Column width={7}>
             <Header as="h4">Hecho para</Header>
             <p>
-              <a href="https://giorgioventuradev.com/">
-                Desarrollo practicado por Giorgio Ventura
-              </a>{" "}
-              de <b>giorgioventuradev</b> de{" "}
-              <a href="https://twitter.com/gventuraAG" target="_blank">
-                @gventuraAG
-              </a>
+              <a href="https://platzi.com/">Platzi y su curso de Next.JS</a> de
+              Platzi dictado por{' '}
+              <a href="https://twitter.com/jonalvarezz">@jonalvarezz</a>
             </p>
-            <List horizontal style={{ display: "flex" }}>
+            <List horizontal style={{ display: 'flex' }}>
               <List.Item
-                icon="twitter"
-                style={{ display: "flex" }}
-                content={
-                  <a href="https://twitter.com/gventuraAG" target="_blank">
-                    Twitter
-                  </a>
-                }
+                icon="linkedin"
+                style={{ display: 'flex' }}
+                content={<a href="https://www.linkedin.com/in/jhondue%C3%B1as/">LinkedIn</a>}
               />
               <List.Item
                 icon="github"
-                style={{ display: "flex" }}
+                style={{ display: 'flex' }}
                 content={
-                  <a
-                    href="https://github.com/gventuraagramonte/palta-app"
-                    target="_blank"
-                  >
-                    GitHub
+                  <a href="https://github.com/JairoDuenas/avocado-next">
+                    GitHub (Jairo Dueñas)
                   </a>
                 }
               />

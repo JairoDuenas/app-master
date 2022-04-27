@@ -2,7 +2,7 @@ import { NextApiRequest, NextApiResponse } from "next";
 import DB from '@database'
 import enablePublicAccess from '@cors'
 
-const palta = async (req: NextApiRequest, res: NextApiResponse) => {
+const AvoDetail = async (req: NextApiRequest, res: NextApiResponse) => {
     try {
 
         await enablePublicAccess(req, res)
@@ -16,9 +16,5 @@ const palta = async (req: NextApiRequest, res: NextApiResponse) => {
         console.log(e)
         res.status(404).end()
     }
-
-
-
-
 }
-export default palta
+export default AvoDetail

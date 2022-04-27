@@ -19,7 +19,7 @@ const Navbar = () => {
             active={pathname === "/"}
             title="Inicio | Todos los productos"
           >
-            <Avocado /> Palta Store
+            <Avocado /> Avo Store
           </Menu.Item>
         </Link>
         <Menu.Menu position="right">
