@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import { Card } from "semantic-ui-react";
+import Image from "next/image";
 
 type ProductListProps = {
   products: any[];
@@ -13,7 +14,7 @@ const mapProductsToCards = (products: any[]) =>
         as="a"
         color="green"
         header={name}
-        image={image}
+        image={<Image src={image} width={333} height={333} />}
         meta={<Card.Meta style={{ color: "dimgray" }}>{price}</Card.Meta>}
       />
     </Link>
